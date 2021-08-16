@@ -1,1 +1,1 @@
-This docker compose contains workable LAMP-server based on nginx and php-fpm.
+This docker compose contains workable web-server based on nginx, mysql, myphpadmin and php-fpm.
