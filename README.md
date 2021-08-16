@@ -1,0 +1,1 @@
+nginx_mysql_phpmyadmin_php-fpm
